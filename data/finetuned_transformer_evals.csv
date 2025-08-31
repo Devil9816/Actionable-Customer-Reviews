@@ -1,0 +1,102 @@
+CSAT Score,Customer Remarks,cleaned_remarks,Sentiment_Vader,Sentiment_TextBlob,Human_Expert,Vader_Correct,TextBlob_Correct,finetuned_cleaned_remarks,finetuned_Customer Remarks,finetuned_cleaned_remarks_correct,finetuned_Customer Remarks_correct
+5,Very good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Shopzilla app and it's all coustomer care services is very good service provided all time,shopzilla app coustomer care services good service provided time,positive,positive,positive,1,1,positive,positive,1,1
+1,Very bad,bad,negative,negative,negative,1,1,negative,negative,1,1
+3,Something,something,neutral,neutral,neutral,1,1,neutral,neutral,1,1
+5,All good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Godd job,godd job,neutral,neutral,positive,0,0,neutral,positive,0,1
+1,Issue not resolved pathetic service,issue not resolved pathetic service,positive,negative,negative,0,1,negative,negative,1,1
+5,Excellent,excellent,positive,positive,positive,1,1,positive,positive,1,1
+4,Very good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Give proper guidance to the customer,give proper guidance customer,neutral,neutral,negative,0,0,neutral,neutral,0,0
+1,Please highlight if the products cannot be returned.,please highlight products not returned,positive,neutral,negative,0,0,negative,negative,1,1
+1,3000 rupees loss,3000 rupees loss,negative,neutral,negative,1,0,negative,negative,1,1
+5,Please don't sale any destroy product or cheep product more price.,please sale destroy product cheep product price,negative,negative,negative,1,1,negative,negative,1,1
+3,I am very disappointed with Shopzilla.The issue was not resolved.The customer care executive was polite enough though he was not able to resolve the issue.But I am appalled at the utter lack of responsibility and accountability of Shopzilla in providing tracking services.,disappointed shopzilla issue not resolved customer care executive polite enough though not able resolve issue appalled utter lack responsibility accountability shopzilla providing tracking services,negative,negative,negative,1,1,negative,negative,1,1
+5,No comments,no comments,negative,neutral,neutral,0,1,neutral,neutral,1,1
+5,good ????,good,positive,positive,positive,1,1,positive,neutral,1,0
+5,customer service number plz available,customer service number plz available,positive,positive,neutral,0,0,neutral,neutral,1,1
+5,Good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Respectful,respectful,positive,positive,positive,1,1,neutral,neutral,0,0
+5,Very nice good,nice good,positive,positive,positive,1,1,positive,positive,1,1
+3,Even the guarantee period also you have to contact the supplier to reduce the duration of resolve the issue,even guarantee period also contact supplier reduce duration resolve issue,positive,neutral,negative,0,0,neutral,neutral,0,0
+5,Thanks,thanks,positive,positive,positive,1,1,positive,positive,1,1
+5,Try to deliver the product on time,try deliver product time,neutral,neutral,negative,0,0,neutral,neutral,0,0
+5,Nice conversation good I will give rating for ?????,nice conversation good give rating,positive,positive,positive,1,1,positive,positive,1,1
+5,Keep it up Shopzilla,keep shopzilla,neutral,neutral,positive,0,0,neutral,positive,0,1
+5,I am so happy,happy,positive,positive,positive,1,1,positive,positive,1,1
+1,Very bad agent,bad agent,negative,negative,negative,1,1,negative,negative,1,1
+2,Ok,ok,positive,positive,positive,1,1,neutral,positive,0,1
+5,Should take action fast..thank u,take action fast thank u,positive,positive,negative,0,0,neutral,neutral,0,0
+5,Good talk,good talk,positive,positive,positive,1,1,positive,positive,1,1
+5,The way she talked with me is quite appropriate and nice as well. Shopzilla should hire these kind of executive for their customer support service.   bless you dear.,way talked quite appropriate nice well shopzilla hire kind executive customer support service bless dear,positive,positive,positive,1,1,positive,positive,1,1
+4,"Please pack the products which actually customers ordered, otherwise it is time to both you and us Shopzilla.",please pack products actually customers ordered otherwise time us shopzilla,positive,neutral,negative,0,0,neutral,neutral,0,0
+5,Thanks,thanks,positive,positive,positive,1,1,positive,positive,1,1
+5,Mr   was very helpful,mr helpful,positive,neutral,positive,1,0,positive,positive,1,1
+5,"Thank you so much sir for solving my issue . Bhai, please highlight my concern. Bhai sorry for the late feedback. Bhai please call me.",thank much sir solving issue bhai please highlight concern bhai sorry late feedback bhai please call,positive,negative,positive,1,0,positive,positive,1,1
+5,Good,good,positive,positive,positive,1,1,positive,positive,1,1
+5,Thankyou,thankyou,neutral,neutral,positive,0,0,positive,positive,1,1
+1,I selected for English language preference but it's goes into Hindi channel. But customer service executive doesn't understand English properly,selected english language preference goes hindi channel customer service executive understand english properly,neutral,neutral,negative,0,0,neutral,negative,0,1
+5,Nice,nice,positive,positive,positive,1,1,positive,positive,1,1
+5,"Please don't give the chance of local shop/ company,,, they're using the name of Shopzilla & giving worst products... Sell your products like Myntra ( Myntra always send their products)",please give chance local shop company using name shopzilla giving worst products sell products like myntra myntra always send products,positive,negative,negative,0,1,negative,negative,1,1
+5,Thank you   for your valuable time & support,thank valuable time support,positive,neutral,positive,1,0,positive,positive,1,1
+5,Good night,good night,positive,positive,positive,1,1,positive,positive,1,1
+5,No,no,negative,neutral,neutral,0,1,neutral,neutral,1,1
+5,Thank you so much,thank much,positive,positive,positive,1,1,positive,positive,1,1
+1,?? no,no,negative,neutral,neutral,0,1,neutral,negative,1,0
+5,Please provide customer support in regional language like Bengali,please provide customer support regional language like bengali,positive,neutral,neutral,0,1,neutral,neutral,1,1
+1,Delete in Shopzilla account,delete shopzilla account,neutral,neutral,negative,0,0,negative,neutral,1,0
+5,Next time better,next time better,positive,positive,positive,1,1,positive,positive,1,1
+1,Very poor service and support,poor service support,negative,negative,negative,1,1,negative,negative,1,1
+5,Thanks for understanding my problem and helping me out,thanks understanding problem helping,positive,positive,positive,1,1,positive,positive,1,1
+5,Nk,nk,neutral,neutral,neutral,1,1,neutral,neutral,1,1
+1,Noise watch not restart,noise watch not restart,neutral,neutral,negative,0,0,neutral,neutral,0,0
+1,No any response my orderVery bad costumer service,no response ordervery bad costumer service,negative,negative,negative,1,1,negative,negative,1,1
+1,Small product is take so much time and my order is ariving 2 aug but suddanly is change to 5 aug,small product take much time order ariving 2 aug suddanly change 5 aug,neutral,negative,negative,0,1,negative,negative,1,1
+1,Reten,reten,neutral,neutral,neutral,1,1,neutral,neutral,1,1
+4,Nice,nice,positive,positive,positive,1,1,positive,positive,1,1
+5,Good,good,positive,positive,positive,1,1,positive,positive,1,1
+1,Call disconnect and not provide information proper,call disconnect not provide information proper,neutral,neutral,negative,0,0,negative,negative,1,1
+4,My issue is not resolved from yesterday.this is not a good thing.if customer issue is not solved quickly then why we don't do shopping from other shopping app where our issue is solved quickly,issue not resolved yesterday not good thing customer issue not solved quickly shopping shopping app issue solved quickly,negative,positive,negative,1,0,negative,negative,1,1
+5,Everything is good ??,everything good,positive,positive,positive,1,1,positive,positive,1,1
+1,Wrong Product received.,wrong product received,negative,negative,negative,1,1,negative,negative,1,1
+5,Good communication skills,good communication skills,positive,positive,positive,1,1,positive,positive,1,1
+5,Thanks ??,thanks,positive,positive,positive,1,1,positive,neutral,1,0
+1,Worst Shopzilla customer service. Shopzilla shouldn't cancel order without ack from customer and also there's no compensation for customer satisfiaction. it makes us to move out from Shopzilla.,worst shopzilla customer service shopzilla cancel order without ack customer also no compensation customer satisfiaction makes us move shopzilla,negative,negative,negative,1,1,negative,negative,1,1
+5,I am waiting second item today because today evening my flight please solve that today thanks,waiting second item today today evening flight please solve today thanks,positive,positive,neutral,0,0,neutral,neutral,1,1
+5,Nothing to say thanks for solving my issue,nothing say thanks solving issue,negative,positive,positive,0,1,negative,neutral,0,0
+5,"Shopzilla customer service executive   was very helpful,I appreciate her to good future ahead in your company.",shopzilla customer service executive helpful appreciate good future ahead company,positive,positive,positive,1,1,positive,positive,1,1
+5,No,no,negative,neutral,neutral,0,1,neutral,neutral,1,1
+5,Thankyou so much,thankyou much,neutral,positive,positive,0,1,positive,positive,1,1
+5,Nyc talkng,nyc talkng,neutral,neutral,positive,0,0,neutral,neutral,0,0
+5,Thanks,thanks,positive,positive,positive,1,1,positive,positive,1,1
+1,"You have played around with this order. Without taking customers concern, how can you plan the resolution/pick-up of the products? Don't you have brain to check with the customers availability? Also, no courtesy to atleast reach customer and apologize for the mess created by Shopzilla due to systems failure. Order placed on 8 July and 19 July damaged product delivered. I'm still awaiting for the resolution and refund.",played around order without taking customers concern plan resolution pick products brain check customers availability also no courtesy atleast reach customer apologize mess created shopzilla due systems failure order placed 8 july 19 july damaged product delivered still awaiting resolution refund,negative,negative,negative,1,1,negative,negative,1,1
+5,Excellent,excellent,positive,positive,positive,1,1,positive,positive,1,1
+4,Very nice,nice,positive,positive,positive,1,1,positive,positive,1,1
+5,Good,good,positive,positive,positive,1,1,positive,positive,1,1
+4,Bot is very annoying,bot annoying,negative,negative,negative,1,1,negative,negative,1,1
+5,Ok,ok,positive,positive,positive,1,1,neutral,positive,0,1
+5,Have faith in coustomar,faith coustomar,positive,neutral,neutral,0,1,neutral,neutral,1,1
+1,One side nit warning,one side nit warning,negative,neutral,negative,1,0,neutral,neutral,0,0
+1,They put my call on hold but after sometime they disconnected without any information.,put call hold sometime disconnected without information,neutral,neutral,negative,0,0,negative,negative,1,1
+5,Please solve the queries,please solve queries,positive,neutral,neutral,0,1,neutral,neutral,1,1
+1,No,no,negative,neutral,neutral,0,1,neutral,neutral,1,1
+5,She is very good. If she need to switch the job ask her to contact me.,good need switch job ask contact,positive,positive,positive,1,1,neutral,positive,0,1
+4,Item are too delay of delivery date,item delay delivery date,negative,neutral,negative,1,0,negative,negative,1,1
+1,10 days order not supply &no payment refund,10 days order not supply no payment refund,positive,neutral,negative,0,0,negative,negative,1,1
+5,Best,best,positive,positive,positive,1,1,positive,positive,1,1
+1,"Idiotic customer care executives, no solution from your end since April 28 th, call disconnected from the executive end",idiotic customer care executives no solution end since april 28 th call disconnected executive end,negative,negative,negative,1,1,negative,negative,1,1
+5,My issue paylater bill not submited so i talk customer  suppprt nd my issue solve in just min thnx Shopzilla,issue paylater bill not submited talk customer suppprt nd issue solve min thnx shopzilla,positive,neutral,positive,1,0,negative,negative,0,0
+4,Problems and concern's Good Understanding and solved.,problems concern good understanding solved,positive,positive,positive,1,1,positive,positive,1,1
+3,My problem is not yet solved,problem not yet solved,negative,neutral,negative,1,0,negative,negative,1,1
+1,"I ordered a sleeper which was delivered on 22nd july after that i didn't like its quality so i refunded the last date to pick up the product after refund was 25th july but my product didn't get picked up till 31st july.  And I was consoled to wait only 24 hours for 5 days after talking to the costumer care, even after that no one came for pickup, I felt very sad seeing the return policy of Shopzilla.  That's why I canceled myself last night, first time this happened to me ??",ordered sleeper delivered 22nd july like quality refunded last date pick product refund 25th july product get picked till 31st july consoled wait 24 hours 5 days talking costumer care even no one came pickup felt sad seeing return policy shopzilla canceled last night first time happened,positive,negative,negative,0,1,neutral,negative,0,1
+1,Awful customer support ever,awful customer support ever,negative,negative,negative,1,1,negative,negative,1,1
+5,Good job ??,good job,positive,positive,positive,1,1,positive,neutral,1,0
+5,Happy,happy,positive,positive,positive,1,1,positive,positive,1,1
+5,happy costumer support,happy costumer support,positive,positive,positive,1,1,positive,positive,1,1
+4,U cal display ur customers support number4 help any customers problem But no display customers care number,u cal display ur customers support number4 help customers problem no display customers care number,positive,neutral,neutral,0,1,negative,neutral,0,1
+1,After delivery of the product take responsibility of the items.,delivery product take responsibility items,neutral,neutral,negative,0,0,neutral,neutral,0,0
+5,Interaction was awesome but policy is very bad can't unblock my account pay later,interaction awesome policy bad unblock account pay later,positive,positive,neutral,0,0,neutral,negative,1,0
+3,Reduce time,reduce time,neutral,neutral,neutral,1,1,neutral,neutral,1,1
+,,,,,,65,71,,,80,82
