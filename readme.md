@@ -59,10 +59,23 @@ The future scope of this project includes building an **internal intent classifi
 ---
 
 ## 📂 Project Structure  
-├── Final_Customer_Reviews.ipynb # Main notebook with all code
-├── data/ # Dataset (reviews)
-├── outputs/ # Visualizations & sentiment results
-└── README.md # Project documentation
+
+Actionable-Customer-Reviews/
+├── .venv/                        # Virtual environment
+│
+├── data/                         # Data files
+│   ├── Baseline_evals.csv
+│   ├── Baseline_predictions.csv
+│   ├── cleaned_review.csv
+│   ├── finetuned_transformer_evals.csv
+│   ├── finetuned_transformer_predictions.csv
+│   └── original_dataset.csv
+│
+├── .gitignore
+├── Final_Customer_Reviews.ipynb  # Main notebook with all code
+├── readme.md
+└── requirements.txt
+
 
 ## 📌 Future Scope  
 - Develop **internal complaint/request classifier** for actionable reviews.  
