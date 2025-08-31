@@ -58,8 +58,9 @@ The future scope of this project includes building an **internal intent classifi
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
+```bash
 Actionable-Customer-Reviews/
 ├── .venv/                        # Virtual environment
 │
@@ -75,6 +76,7 @@ Actionable-Customer-Reviews/
 ├── Final_Customer_Reviews.ipynb  # Main notebook with all code
 ├── readme.md
 └── requirements.txt
+
 
 
 ## 📌 Future Scope  
